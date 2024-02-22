@@ -15,7 +15,7 @@
     <p>I'm a Application Systems Analyst at Koch Global Services, supporting Application Management with operations. My technical knowledge ranges from front end development to backend development.</p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
